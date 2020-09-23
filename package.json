@@ -45,6 +45,7 @@
   "devDependencies": {
     "@v4fire/linters": "^1.5.9",
     "husky": "^4.3.0",
+    "jasmine": "^3.6.1",
     "nyc": "^15.1.0"
   }
 }
