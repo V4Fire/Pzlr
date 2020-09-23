@@ -43,6 +43,7 @@
     "vinyl-fs": "^3.0.3"
   },
   "devDependencies": {
+    "@types/fs-extra-promise": "^1.0.9",
     "@v4fire/linters": "^1.5.9",
     "husky": "^4.3.0",
     "jasmine": "^3.6.1",
