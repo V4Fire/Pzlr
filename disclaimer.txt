@@ -1,0 +1,7 @@
+/*!
+ * V4Fire Pzlr
+ * https://github.com/V4Fire/Pzlr
+ *
+ * Released under the MIT license
+ * https://github.com/V4Fire/Pzlr/blob/master/LICENSE
+ */
