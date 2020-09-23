@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "./node_modules/@v4fire/linters/.eslintrc"
+  ]
+}
