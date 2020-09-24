@@ -1,0 +1,15 @@
+{
+  "src": {
+    "root": "src",
+    "client": "client",
+    "server": "server",
+    "entries": "entries",
+    "assets": {
+      "src": "assets",
+      "sprite": "sprite"
+    }
+  },
+
+  "dependencies": [],
+  "disclaimer": null
+}

@@ -1,0 +1,15 @@
+{
+  "projectType": "ts",
+  "blockDir": "blocks",
+  "assets": {
+    "dir": "static",
+    "sprite": "svg"
+  },
+
+  "src": {
+    "server": "server-scripts"
+  },
+
+  "dependencies": ["my-project"],
+  "disclaimer": "disclaimer.txt"
+}
